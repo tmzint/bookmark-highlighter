@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<vbox xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <setting data-jetpack-id="jid0-CNA8w9TYZz7H2Wrq5ZfmSO5yB0I@jetpack" pref="extensions.jid0-CNA8w9TYZz7H2Wrq5ZfmSO5yB0I@jetpack.highlightedLinkBackground" pref-name="highlightedLinkBackground" title="Highlighted link background" type="string"/>
+  <setting data-jetpack-id="jid0-CNA8w9TYZz7H2Wrq5ZfmSO5yB0I@jetpack" pref="extensions.jid0-CNA8w9TYZz7H2Wrq5ZfmSO5yB0I@jetpack.highlightedImageBorder" pref-name="highlightedImageBorder" title="Highlighted image border" type="string"/>
+  <setting data-jetpack-id="jid0-CNA8w9TYZz7H2Wrq5ZfmSO5yB0I@jetpack" pref="extensions.jid0-CNA8w9TYZz7H2Wrq5ZfmSO5yB0I@jetpack.include" pref-name="include" title="Highlighted include string" type="string"/>
+
+</vbox>

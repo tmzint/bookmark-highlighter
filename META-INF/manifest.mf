@@ -1,0 +1,492 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JWe25KUzhtmyPPwXuUI5aA==
+SHA1-Digest: sFLg3OSpIEDa5XwnPiz+HC6PwwM=
+
+Name: bootstrap.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: c7/0AwLyi4ce64rj/NUQeA==
+SHA1-Digest: MBFAi5u3nq7U6bEAJ/91PSHiDJM=
+
+Name: harness-options.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Twj3c4x7bqP1s7Bh4m3XpA==
+SHA1-Digest: +ea2v4mVERj/CAkP2xKisYFZwIU=
+
+Name: locales.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: p3Qh60/6wDH/UunTuTWZjQ==
+SHA1-Digest: DBci+JD/520hUnFSB3zB1xoBE9g=
+
+Name: options.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 79MSocfkANrmcWIHssXaEg==
+SHA1-Digest: uf3aHCuLEr9ml5eXWkPdmumhVWQ=
+
+Name: defaults/preferences/prefs.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: glC8V6/uKfHpRMl8AMaG9w==
+SHA1-Digest: cS0j2WuxJbNu/LMgdbdKgYnRebA=
+
+Name: resources/addon-sdk/lib/sdk/base64.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7HQlFw2vLturhcwo6ChITA==
+SHA1-Digest: E2k82NUzGQk6Qj7jKoDzAcnLa/0=
+
+Name: resources/addon-sdk/lib/sdk/page-mod.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dk9dhuMZhkFx/XRjEvQyNQ==
+SHA1-Digest: Vszq4GqIa5el1IhKh5FBERvwtlA=
+
+Name: resources/addon-sdk/lib/sdk/private-browsing.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: r951aSw8U6FozgL4XuqqAg==
+SHA1-Digest: kQTLt5nCsVHUQSo6zApt4/Z2i8s=
+
+Name: resources/addon-sdk/lib/sdk/self.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bGqX8vVbUEPLzYNxeeUTMw==
+SHA1-Digest: y/epUD6W/Q4RziC+/eiahh29ndc=
+
+Name: resources/addon-sdk/lib/sdk/simple-prefs.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mlv27IaeBgp+i1co1PfqSA==
+SHA1-Digest: NmdruTqoiVCz59JRkNWRwcypPV0=
+
+Name: resources/addon-sdk/lib/sdk/system.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ilC0gwI2lFO3xYIg4jnHcQ==
+SHA1-Digest: ICuSWv9MH88X9yF9hYh7N5NtU7w=
+
+Name: resources/addon-sdk/lib/sdk/tabs.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4HTIzxkj8PgqpLb18p8nNA==
+SHA1-Digest: KI6D3daiaHwycvkL29WtSDtgsmQ=
+
+Name: resources/addon-sdk/lib/sdk/timers.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0/3zBT9T241KEhU0X4rz1w==
+SHA1-Digest: 22xmEUaL5e5uw76eL22tbA67fhc=
+
+Name: resources/addon-sdk/lib/sdk/url.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TjZpC4eWRLQrGnC68DVmIA==
+SHA1-Digest: F/TunTSU+0HOugA5sWraxIuW46M=
+
+Name: resources/addon-sdk/lib/sdk/windows.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ctovcwuGTqJGDbViO1RMSw==
+SHA1-Digest: f9lEZpLu0wekcxQoJ2CAOPo0tWQ=
+
+Name: resources/addon-sdk/lib/sdk/addon/runner.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vEbYVEnk5ahkru5qJKoTgQ==
+SHA1-Digest: 4jQZKbTJ80qyS9BRpKuCW8xjYek=
+
+Name: resources/addon-sdk/lib/sdk/console/plain-text.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4DQiEXjRLcOUmP7nPPdlSg==
+SHA1-Digest: aR7Eg0EvrBygyb8XX/ES6QlJxvE=
+
+Name: resources/addon-sdk/lib/sdk/console/traceback.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fZzJtVMaF90vLNxTxEB3vQ==
+SHA1-Digest: 0Jn1nk5GWmmIWsiR/FSNa5i2/2M=
+
+Name: resources/addon-sdk/lib/sdk/content/content-proxy.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cfb3rDYd+DWueONzC9MCIA==
+SHA1-Digest: MUlfkvb9PxoRIa8Thx+D7PI0ecU=
+
+Name: resources/addon-sdk/lib/sdk/content/content-worker.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PvIlO6YWkRcAxN0jZWAX4g==
+SHA1-Digest: 5+ztYpZmFz/TQbVHLnDZp5i1KFw=
+
+Name: resources/addon-sdk/lib/sdk/content/loader.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 67EqyqImveRtOc3vYmd5FQ==
+SHA1-Digest: WhS2/lyjROfoptuNmelgX3R4NmY=
+
+Name: resources/addon-sdk/lib/sdk/content/thumbnail.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nwI0bmW/BS5SnsYu8nCJ8g==
+SHA1-Digest: 82vVIDgLyaMXOGTcD9hgj0ygDEE=
+
+Name: resources/addon-sdk/lib/sdk/content/worker.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5IJ/ty6MqFgq+rLztZhw6w==
+SHA1-Digest: id5VU7JAn0ZCQk4fXz0FbaXAPKw=
+
+Name: resources/addon-sdk/lib/sdk/core/heritage.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yU3Ov8p/SybkxthmzDt3jw==
+SHA1-Digest: 03snoGV0eA+6PGZvK7a1d0ap9dc=
+
+Name: resources/addon-sdk/lib/sdk/core/namespace.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wyOtjNEfDriz5AWfV+kPwA==
+SHA1-Digest: hm+R2QFndEN4FQcg8R+8pjk3yFs=
+
+Name: resources/addon-sdk/lib/sdk/core/promise.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: B0pX9nKNZMMeMUMNh8KcNg==
+SHA1-Digest: Yomti8sowd5JACWpBryYGEi/lgY=
+
+Name: resources/addon-sdk/lib/sdk/deprecated/api-utils.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8mQAFIMRx4spnux2naxziQ==
+SHA1-Digest: mM780PrVUyKrSI+I4F/aMnRGgeA=
+
+Name: resources/addon-sdk/lib/sdk/deprecated/cortex.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IMmzUup4ww7rP9Hsb55vYw==
+SHA1-Digest: saH+G1S51SwGjDFV0k2fSMu4EOM=
+
+Name: resources/addon-sdk/lib/sdk/deprecated/errors.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7A/xxBMtD7gOW5fthdX//w==
+SHA1-Digest: 9RkBUFyjJ8fIxEof2Aj2xHQGh34=
+
+Name: resources/addon-sdk/lib/sdk/deprecated/events.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fDEclw1ZC9sNlei8XbVOlA==
+SHA1-Digest: E09pdeM/z3ISEN4nOTukKSrNWRY=
+
+Name: resources/addon-sdk/lib/sdk/deprecated/light-traits.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XcO6iamMWg4OjEiC4/nWhA==
+SHA1-Digest: IZ/XlMVPPCzv9XNADjGoJKRYhpY=
+
+Name: resources/addon-sdk/lib/sdk/deprecated/list.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KVneO1+CyrExfHBtFu41nA==
+SHA1-Digest: JBFaoko4B3J/UzmJIxF7JNa9opI=
+
+Name: resources/addon-sdk/lib/sdk/deprecated/memory.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xGqkPUICuOTBywMjNj2Bxw==
+SHA1-Digest: weR2Uy0syNuwhe2FQIWCxX+Qc0A=
+
+Name: resources/addon-sdk/lib/sdk/deprecated/observer-service.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2MlXj2+OyW/I9IkXnT6a2g==
+SHA1-Digest: I3jEXVobV8pf0Z1C8698aogtRIM=
+
+Name: resources/addon-sdk/lib/sdk/deprecated/traits.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gDXVP8/zpzg/h4j61onEUA==
+SHA1-Digest: 6XWJtBzWxzA29dJ5N7VzG+U7IZ4=
+
+Name: resources/addon-sdk/lib/sdk/deprecated/window-utils.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zEpzzckndpNZsv3Hhr6PFw==
+SHA1-Digest: Hgy+p1y/mAT0TY0+W8M4BR/+8Xc=
+
+Name: resources/addon-sdk/lib/sdk/deprecated/events/assembler.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lX6BTgBWfge94DSQsaPF7Q==
+SHA1-Digest: Pl71B3uivLOCBmY+KR1xnxIT9mE=
+
+Name: resources/addon-sdk/lib/sdk/deprecated/traits/core.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +OCup6JkxPQnqkg8G7zByw==
+SHA1-Digest: srcdl3CwukrhH5igPTjvWVB+qH4=
+
+Name: resources/addon-sdk/lib/sdk/dom/events.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: c7gkJok1Y6Ob3xhuAaZebw==
+SHA1-Digest: DR2wORGumfa0t9jm0FboXQWwsXY=
+
+Name: resources/addon-sdk/lib/sdk/event/core.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DW/efVHTJUSZMqxlPvKn+A==
+SHA1-Digest: QZeho/AwAbij5gx75ALtQ6pz1LU=
+
+Name: resources/addon-sdk/lib/sdk/event/target.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +yVtmw7nv+zwiylLIAL4Jw==
+SHA1-Digest: i1XL49oH9ETVYHAD4cfm1kOLsJw=
+
+Name: resources/addon-sdk/lib/sdk/io/byte-streams.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KWbhZy4BLnwiuTpZ5aTzcg==
+SHA1-Digest: 052DCmME22wkAmOkKVS1qQ6TtS0=
+
+Name: resources/addon-sdk/lib/sdk/io/data.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TM6ipM9KyZWLtYWo0q0YCQ==
+SHA1-Digest: IzZwIiiiewB8uePw7GTofldtPyU=
+
+Name: resources/addon-sdk/lib/sdk/io/file.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eQLjXEIGTpUh4CmYFAVxtQ==
+SHA1-Digest: rHZgw0ru7u5VE4kTjNNyEhBB3SQ=
+
+Name: resources/addon-sdk/lib/sdk/io/text-streams.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FgtCx7aSj59T3WAslh0H8A==
+SHA1-Digest: a2yyzVVuOq9Fb/JjsHBaIP7cTWA=
+
+Name: resources/addon-sdk/lib/sdk/l10n/core.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Sd5UsfqhPqGo5rCLe07IIA==
+SHA1-Digest: bGMW8CL9MS9jIJeAcKZBPFzxT+A=
+
+Name: resources/addon-sdk/lib/sdk/l10n/html.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: S8wv2l/SFGU03tQhN//IRQ==
+SHA1-Digest: DGU/gOUO6HZFdTbf5BR9gV0aJBE=
+
+Name: resources/addon-sdk/lib/sdk/l10n/loader.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oE3pKJiVHTxKRlsGeTo78w==
+SHA1-Digest: coQDwJTzOtmlisH7igZqvrRFZwY=
+
+Name: resources/addon-sdk/lib/sdk/l10n/locale.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: U8/s08bdqWcE9/E5R10vGw==
+SHA1-Digest: oj5eIcyzJyi9GNV30fg1eVpLvB0=
+
+Name: resources/addon-sdk/lib/sdk/l10n/prefs.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UBTvmiR0hHl8RNSXQ+W8jQ==
+SHA1-Digest: KGUDecG9P9lujGSe96qOkaOQ/08=
+
+Name: resources/addon-sdk/lib/sdk/lang/functional.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eii8ZkCoKDdDAbs2gUFjGw==
+SHA1-Digest: RtEV7imOTlVItljjiJn4OHW6DY4=
+
+Name: resources/addon-sdk/lib/sdk/loader/cuddlefish.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xopozeVBSmAB9EhZY8lnAg==
+SHA1-Digest: VFeQEC+p82kvdOCxj0I7kup5euU=
+
+Name: resources/addon-sdk/lib/sdk/loader/sandbox.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ORM+qryD9uOrWGyQFXVdTA==
+SHA1-Digest: AhP++NkUuCXIe7BqQQUBVJn1wcU=
+
+Name: resources/addon-sdk/lib/sdk/net/url.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 44AI3UOrgVCd/ZrCXj3GsQ==
+SHA1-Digest: XUOzTq5hYjInAq6XMCCk7QWmopk=
+
+Name: resources/addon-sdk/lib/sdk/page-mod/match-pattern.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: L9AyYrgmImDYArnE/h2tuw==
+SHA1-Digest: lb0A2Rw3jzKTbx7BhZRENBrxAAk=
+
+Name: resources/addon-sdk/lib/sdk/platform/xpcom.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bBZcdMhYIeTsRjhIu9wahA==
+SHA1-Digest: YfD857NXXpnku4vfWIYi8Z+OJAY=
+
+Name: resources/addon-sdk/lib/sdk/preferences/event-target.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VpemQUxMtBftP3eHm+kRng==
+SHA1-Digest: JK79jZSsEjCaZKmdEeCoGlRlsTs=
+
+Name: resources/addon-sdk/lib/sdk/preferences/service.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rBMjuxY8rNSjsmhxqoZI1A==
+SHA1-Digest: IqvRyURlTeBcTKN1v5SBXS05i+s=
+
+Name: resources/addon-sdk/lib/sdk/private-browsing/utils.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YNAxk0QRztC8+CyJ3SC8gw==
+SHA1-Digest: 1ly1nMHQu58HBm1YK0ft5zD0z7U=
+
+Name: resources/addon-sdk/lib/sdk/private-browsing/window/utils.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FzjMx/uJ6GnaC01+o7wVxA==
+SHA1-Digest: SfrDoIPp63E5rI5PWiWoQMUS/PU=
+
+Name: resources/addon-sdk/lib/sdk/system/environment.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mRZBoCl9zAHtnRt05J5Y5g==
+SHA1-Digest: S4OlfJMRZFGB9i0v9Et6Il6+lGs=
+
+Name: resources/addon-sdk/lib/sdk/system/events.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: w+Wn+Fx1ppoQT70IGsSIOg==
+SHA1-Digest: YZXNiSnXhxzsiSOMwooPC1tloKo=
+
+Name: resources/addon-sdk/lib/sdk/system/globals.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: d5ZeCkJhkB9+GlUghy9yDA==
+SHA1-Digest: UXMiDJ/Xbb7mZvJW7lJlWGjY7LI=
+
+Name: resources/addon-sdk/lib/sdk/system/runtime.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ql16KQOdInoj4Ixe9cVpUQ==
+SHA1-Digest: 0bddEisTqM2YgOFgJ/M07B5T1PE=
+
+Name: resources/addon-sdk/lib/sdk/system/unload.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5nXQ7BZ8UeIsGD2B7KzXsg==
+SHA1-Digest: /z+0p+OquB/5kAAbtY+LegzACH0=
+
+Name: resources/addon-sdk/lib/sdk/system/xul-app.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7RU+8DIlTI7UwryDMwN/vw==
+SHA1-Digest: 6Ud6zEDx31g8TKTjiqJ1I4MjZKw=
+
+Name: resources/addon-sdk/lib/sdk/tabs/common.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fJyDch8JHfgLVpdQv1e98Q==
+SHA1-Digest: BEGxPCfDXOeO/cG1lcx2AiZ9hLg=
+
+Name: resources/addon-sdk/lib/sdk/tabs/events.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wNM9bGve7gSEASeNFx/+RQ==
+SHA1-Digest: UgSkBklI6wHvPdwApeNVEdLfBtU=
+
+Name: resources/addon-sdk/lib/sdk/tabs/helpers.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2xUf5PqLb+CakCSpwBxuTw==
+SHA1-Digest: Ai6CKAMiSC7XIZYi6mS7B6wAqjw=
+
+Name: resources/addon-sdk/lib/sdk/tabs/namespace.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Uh3faW0FQ8q3L+zGc70hPQ==
+SHA1-Digest: 80+gVJYQQ3DDHnVjocLj3uk6bE4=
+
+Name: resources/addon-sdk/lib/sdk/tabs/observer.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jNc/K1KDh9MIdaF5HWVQ7w==
+SHA1-Digest: kwYbRwvME+x2ovXc/bxQW27W/j4=
+
+Name: resources/addon-sdk/lib/sdk/tabs/tab-fennec.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IbWZdsEuM5bUvLFtaqIsFA==
+SHA1-Digest: /tF2Rd0CbjRVEhERxMLUqLl1LSk=
+
+Name: resources/addon-sdk/lib/sdk/tabs/tab-firefox.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8QA6Lx8+jIlowY89TpbV3A==
+SHA1-Digest: aEl4HB2UZ1DH9DDwzZDGtiQp/ZI=
+
+Name: resources/addon-sdk/lib/sdk/tabs/tab.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8xcc499u9N5SsAK6NTqAPw==
+SHA1-Digest: 2O0OTPHgclT64UITcGwyk9wX5zY=
+
+Name: resources/addon-sdk/lib/sdk/tabs/tabs-firefox.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CXwf3K44iJY2eJ/dRX6voA==
+SHA1-Digest: arpjT2g7H1/XrBT7BQRDPVAB6k4=
+
+Name: resources/addon-sdk/lib/sdk/tabs/tabs.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SLqC5Mud04h5Qi7QcDe+GQ==
+SHA1-Digest: LkrcAdQGx1AXgGejJsxlDJWEjPA=
+
+Name: resources/addon-sdk/lib/sdk/tabs/utils.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: b/vhFh1gtA47H5kDTg7cbA==
+SHA1-Digest: e3bmBzeBsbzNfCmtoBxaaSCLV1Q=
+
+Name: resources/addon-sdk/lib/sdk/tabs/worker.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GN+/D2A5VUA3wS9TQKssJw==
+SHA1-Digest: /ByUmjvTVDqkUHVBqHfYP19q+cg=
+
+Name: resources/addon-sdk/lib/sdk/util/array.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KpIijyJQA4MySPgzc7cQpQ==
+SHA1-Digest: Z1vOhbg2tBdXCmykiz45ecv0quw=
+
+Name: resources/addon-sdk/lib/sdk/util/deprecate.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Q6vZfxppqMJOva7mb7CYEg==
+SHA1-Digest: iLBfD6m/fwABcxmFH0X/Ln3Rsqw=
+
+Name: resources/addon-sdk/lib/sdk/util/list.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Rbxu5g4r8aNZ8Uv+DvQY5w==
+SHA1-Digest: PlgNbVKlbn5PRy7IIBH0lvxN3ic=
+
+Name: resources/addon-sdk/lib/sdk/util/object.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PKta4JIJ8xS545HG8nXMIg==
+SHA1-Digest: aBlCCwsDfidVZiQHHUAfYFHmEQw=
+
+Name: resources/addon-sdk/lib/sdk/util/registry.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mkmftUd6FU8+Isav09K3+g==
+SHA1-Digest: tam6PQi/BvmtSt+SpdtmxCpMAlM=
+
+Name: resources/addon-sdk/lib/sdk/util/uuid.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VpXdelWqrzGI+TLO0VqetA==
+SHA1-Digest: exniDPJYIRYGEmEbbewaa/hsU5Y=
+
+Name: resources/addon-sdk/lib/sdk/window/browser.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hopVqp1tlgaL7N+JWBbrTA==
+SHA1-Digest: PbhAM9igqpoJAp1+Ntni1xpYwTs=
+
+Name: resources/addon-sdk/lib/sdk/window/namespace.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gOftyjAApRKLkDEp3xDaEQ==
+SHA1-Digest: q4Ptr4MbdA6DWdT4LXLQgLKAjaI=
+
+Name: resources/addon-sdk/lib/sdk/window/utils.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Lg1LnTNhk70slEkxJCx0mQ==
+SHA1-Digest: u7W+qvxDBSLjNxQN/KwjBY06FLY=
+
+Name: resources/addon-sdk/lib/sdk/windows/dom.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: n24P1m58y2IAWtwo6yZ0Rg==
+SHA1-Digest: banADfa4m5TC4f9btvxN7tHOXcw=
+
+Name: resources/addon-sdk/lib/sdk/windows/fennec.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PUY/s8qrSEHF+Uo9I+hkZg==
+SHA1-Digest: 0g4RiraWZ13GFhwj2XKEv+KwsTE=
+
+Name: resources/addon-sdk/lib/sdk/windows/firefox.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6eCQTXWvbkAIAOcuKxsMlw==
+SHA1-Digest: r2oOri6VUSup07fkJnBIX6DRfdc=
+
+Name: resources/addon-sdk/lib/sdk/windows/loader.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ee2exv2DsO4AMOh+rmK0pw==
+SHA1-Digest: QyozP5mk79SXoefVN6Wdw5bHlzU=
+
+Name: resources/addon-sdk/lib/sdk/windows/observer.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1zKhToQagf14/rrO4ThkSQ==
+SHA1-Digest: lVWwRO7HvU7aWDjFKEPCJp97NGQ=
+
+Name: resources/addon-sdk/lib/sdk/windows/tabs-fennec.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9Nyf3knSsFcR1zkcpBDJSA==
+SHA1-Digest: BS+1kOEIQL/1o2yWaaAgtLQP2z4=
+
+Name: resources/addon-sdk/lib/sdk/windows/tabs-firefox.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: o5myomfkNwQ30uROItUlGA==
+SHA1-Digest: 6IBE8hSPiFbcQcOnkffE6OPfyoY=
+
+Name: resources/addon-sdk/lib/toolkit/loader.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1JH6u8tK3Z8WJDpLoqhMvA==
+SHA1-Digest: o6pbhpx9NC3Bd/8mZ8QZrhPLMcA=
+
+Name: resources/bookmark-highlighter/data/highlighter.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4yld9ITRbf7t4f5d43zmFQ==
+SHA1-Digest: TubJl0IGUN+dRe7JIivzzVMxDbw=
+
+Name: resources/bookmark-highlighter/lib/main.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: D+dKOdmiPVOvekcSvruLaQ==
+SHA1-Digest: lj80hSBBVk20doQFEG0PBq2woYA=
+
