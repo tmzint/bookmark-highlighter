@@ -1,0 +1,64 @@
+{
+ "enable_e10s": false, 
+ "is-sdk-bundled": true, 
+ "jetpackID": "jid0-CNA8w9TYZz7H2Wrq5ZfmSO5yB0I@jetpack", 
+ "loader": "addon-sdk/lib/sdk/loader/cuddlefish.js", 
+ "main": "main", 
+ "mainPath": "bookmark-highlighter/main", 
+ "manifest": {
+  "bookmark-highlighter/main": {
+   "docsSHA256": null, 
+   "jsSHA256": "31b02675c4a74ba63a3dd554ac98afac741608572bc8a162d3e2daf1fa32643c", 
+   "moduleName": "main", 
+   "packageName": "bookmark-highlighter", 
+   "requirements": {
+    "chrome": "chrome", 
+    "page-mod": "sdk/page-mod", 
+    "sdk/simple-prefs": "sdk/simple-prefs", 
+    "self": "sdk/self"
+   }, 
+   "sectionName": "lib"
+  }
+ }, 
+ "metadata": {
+  "addon-sdk": {
+   "description": "Add-on development made easy.", 
+   "keywords": [
+    "javascript", 
+    "engine", 
+    "addon", 
+    "extension", 
+    "xulrunner", 
+    "firefox", 
+    "browser"
+   ], 
+   "license": "MPL 2.0", 
+   "name": "addon-sdk"
+  }, 
+  "bookmark-highlighter": {
+   "author": "careytilden", 
+   "description": "Highlights links to any URLs that are bookmarked", 
+   "main": "main", 
+   "name": "bookmark-highlighter", 
+   "version": "1.8"
+  }
+ }, 
+ "name": "bookmark-highlighter", 
+ "preferences": [
+  {
+   "name": "highlightedLinkBackground", 
+   "title": "Highlighted link background", 
+   "type": "string", 
+   "value": "rgba(0, 0, 255, 0.2)"
+  }, 
+  {
+   "name": "highlightedImageBorder", 
+   "title": "Highlighted image border", 
+   "type": "string", 
+   "value": "1px dashed blue"
+  }
+ ], 
+ "sdkVersion": "1.14", 
+ "staticArgs": {}, 
+ "verbose": false
+}
